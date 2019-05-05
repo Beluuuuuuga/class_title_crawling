@@ -1,3 +1,4 @@
 .bundle
 *.txt
 *.csv
+.DS_Store

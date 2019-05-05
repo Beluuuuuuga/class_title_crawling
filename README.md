@@ -14,13 +14,13 @@
 ## 取得先情報
 - URLのトップページ
 <div align="center">
-  <img width="600px" src="">
+  <img width="600px" src="https://github.com/Beluuuuuuga/class_title_parser/blob/master/image/top.png">
 </div>
 <div align="center"> 図1. URLのトップページ </div>
 
 - 取得情報の終了までの時間と授業の内容
 <div align="center">
-  <img width="600px" src="">
+  <img width="600px" src="https://github.com/Beluuuuuuga/class_title_parser/blob/master/image/time_title.png">
 </div>
 <div align="center"> 図2. 授業シラバス </div>
 
